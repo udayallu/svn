@@ -5,3 +5,4 @@
 4. adding a ignore file -> svn propedit svn:ignore .
 5. adding files -> svn add .
 6. commit -> svn commit -m "message"
+7. update -> svn update
