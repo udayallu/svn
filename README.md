@@ -4,4 +4,4 @@
 3. copy the data into repo that was created in local machine
 4. adding a ignore file -> svn propedit svn:ignore .
 5. adding files -> svn add .
-6. commit -> svn commit "message"
+6. commit -> svn commit -m "message"
