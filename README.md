@@ -1,6 +1,4 @@
-# svn
-
-## SVN Steps
+## Steps for pushing code to SVN repo
 1. Pull the Repo using -> svn co url
 2. Authenticate with username and pswd
 3. copy the data into repo that was created in local machine
